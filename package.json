@@ -1,0 +1,9 @@
+{
+  "name": "czackiPlus",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/czacki/czackiPlus.git",
+  "author": "Kazimierz Ciaś",
+  "license": "MIT",
+  "private": false
+}
